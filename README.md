@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prathamesh2709
 - 👀 I’m interested in ...Software Developement
-- 🌱 I’m currently learning ...Full Stack Java DEvelopement
+- 🌱 I’m currently learning ...Full Stack Java Developement
 - 💞️ I’m looking to collaborate on ...CodingKing
 - 📫 How to reach me ...https://www.linkedin.com/in/prathamesh-patil-834539181
 
